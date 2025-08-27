@@ -1,0 +1,16 @@
+{
+    "source_config": {
+      "server": "https://dub01.online.tableau.com",
+      "site": "site1",
+      "pat_name": "site_ds_migrates",
+      "pat_secret": "PAT_SECRET",
+      "project": "Data Sources"
+    },
+    "target_config": {
+      "server": "https://dub01.online.tableau.com",
+      "site": "site2",
+      "pat_name": "site_ds_target",
+      "pat_secret": "PAT_SECRET",
+      "project": "AZ Data Source"
+    }
+  }
