@@ -1,0 +1,7 @@
+{
+    "tableau_server_url": "https://<pod-name>.online.tableau.com",
+    "tableau_site_name": "your-site-name",
+    "pat_name": "your-pat-name",
+    "pat_secret": "your-pat-secret",
+    "project_name": "your-project-name"
+}
